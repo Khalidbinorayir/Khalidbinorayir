@@ -1,5 +1,5 @@
  Hi, I’m @Khalidbinorayir
-I’m interested in ML, Image proccesing, and embedded system programming
+I’m interested in circuit design, ML, Image proccesing, EDA, , and embedded system programming
  How to reach me khalidalorayir@gmail.com
 
 
